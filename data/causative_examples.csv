@@ -1,0 +1,24 @@
+﻿Language,Type,Base_Form,Causative_Form,Translation,Example_Sentence
+Korean,Morphological,먹다,먹이다,eat → feed,엄마가 아이에게 밥을 먹였다
+Korean,Morphological,앉다,앉히다,sit → seat,선생님이 학생을 의자에 앉혔다
+Korean,Morphological,울다,울리다,cry → make cry,그가 아이를 울렸다
+Korean,Morphological,신다,신기다,wear → make wear,엄마가 아이에게 신발을 신겼다
+Korean,Morphological,자다,재우다,sleep → put to sleep,엄마가 아기를 재웠다
+Korean,Morphological,솟다,솟구다,rise → make rise,물이 하늘로 솟구쳤다
+Korean,Morphological,맞다,맞추다,fit → adjust,시간을 맞추었다
+Malay,Morphological,pakai,memakaikan,wear → make wear,Ibu memakaikan baju kepada adik
+Malay,Morphological,tidur,menidurkan,sleep → put to sleep,Ali menidurkan anaknya di bilik
+Malay,Morphological,duduk,mendudukkan,sit → seat,Guru mendudukkan murid di kerusi
+Malay,Morphological,baca,membacakan,read → read to/for,Ayah membacakan cerita kepada anak
+Malay,Morphological,tulis,menuliskan,write → write for,Setiausaha menuliskan minit mesyuarat
+Malay,Morphological,satu,menyatukan,one → unite,Projek ini menyatukan data dari berbagai sumber
+Malay,Morphological,dua,menduakan,two → betray/duplicate,Abu menduakan isterinya
+Malay,Lexical,mati,membunuh,die → kill,Pembunuh itu membunuh mangsa
+Malay,Lexical,pecah,memecahkan,break → break (tr.),Dia memecahkan kaca
+Malay,Lexical,tumbuh,menumbuhkan,grow → make grow,Petani menumbuhkan sayuran
+Malay,Periphrastic,pergi,suruh pergi,go → make go,Dia suruh saya pergi
+Malay,Periphrastic,makan,suruh makan,eat → make eat,Saya suruh dia makan
+Malay,Periphrastic,menangis,buat menangis,cry → make cry,Saya buat dia menangis
+Korean,Periphrastic,가다,가게 하다,go → make go,나는 그를 가게 했다
+Korean,Periphrastic,먹다,먹게 하다,eat → make eat,나는 동생에게 밥을 먹게 했다
+Korean,Periphrastic,자다,자게 하다,sleep → make sleep,나는 아이를 자게 했다
